@@ -15,7 +15,7 @@ This is a clothing e-commerce website where customers can view, and purchase fas
 
 - Front-end: html, css, Bootstrap 4
 - Database: SQL Server, Entity Framework
-- Back-end: ASP .Net Core MVC
+- Back-end: ASP .Net Core MVC 6.0
 
 ## Contributing
 
